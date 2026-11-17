@@ -38,7 +38,7 @@
 ### 🧰 Inventario
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,godot,unity,discord,raspberrypi,git&perline=12" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,react,godot,discord,raspberrypi,git&perline=12" />
 </p>
 
 ### 📊 High scores
