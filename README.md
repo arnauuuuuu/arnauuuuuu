@@ -12,29 +12,6 @@
 
 ---
 
-### 🕹️ `> PLAYER_1.stats`
-
-```txt
- ┌──────────────────────────────────────────┐
- │  CLASS ........ Game Dev / Bot Crafter   │
- │  LEVEL ........ 99 (y subiendo)          │
- │  HP ........... ████████████░░  café     │
- │  MANA ......... ██████████████  ideas    │
- │  SPECIAL ...... convertir todo en idle   │
- └──────────────────────────────────────────┘
-```
-
-### 🎲 Quest log — proyectos
-
-| | Juego / Proyecto | Género |
-|---|---|---|
-| 🎱 | **BattleRoyaleBillard** | Billar… pero battle royale |
-| ⛏️ | **idle** / **idle-discord-miner** | Idle / incremental |
-| 🃏 | **godcards** | Juego de cartas |
-| ♟️ | **simplechess** | Ajedrez |
-| 🚀 | **juego2026** | 🔒 Secreto… |
-| 🤖 | **Bot2026**, **raspbot**, bots de Discord/Telegram | NPCs que trabajan por mí |
-
 ### 🧰 Inventario
 
 <p>
